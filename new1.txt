@@ -1,2 +1,6 @@
 some word study bug branch
-now i am working in the branch dev
+
+now i finish bug !
+do something
+
+hi
