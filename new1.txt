@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-tess23455
-=======
-tessssst1 
->>>>>>> new1
+ttttest11234
 
