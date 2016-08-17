@@ -1,3 +1,2 @@
 some word study bug branch
-now i work in the dev
-
+now i finish bug !
